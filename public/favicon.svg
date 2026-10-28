@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <!-- Phosphor-style rounded container -->
+  <rect width="256" height="256" rx="64" fill="#1F2D35" />
+  
+  <!-- Phosphor geometric accent circle -->
+  <circle cx="128" cy="128" r="92" stroke="#44606B" stroke-width="12" stroke-linecap="round" stroke-dasharray="8 16" opacity="0.4" />
+  
+  <!-- Phosphor-style 'G' emblem crafted with phosphor curve standards (stroke-width 20, round caps, clean geometry) -->
+  <path d="M184 96a64 64 0 1 0 16 48h-48" 
+        stroke="#8FB0AE" 
+        stroke-width="22" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+  
+  <!-- Phosphor spark dot -->
+  <circle cx="184" cy="96" r="11" fill="#E8E0D2" />
+</svg>
